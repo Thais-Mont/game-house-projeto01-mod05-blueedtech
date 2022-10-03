@@ -1,6 +1,5 @@
 # Projeto Game House - Frontend ReactJS e TypeScript
 
-### Deploy
 
 Projeto desenvolvido durante o curso de FullStack.
 Usando as tecnologias e ferramentas: 
