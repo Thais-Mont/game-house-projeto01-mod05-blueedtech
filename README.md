@@ -29,10 +29,23 @@ npm install
 npm run dev
 ```
 
-```
-* Executar backend local: BAIXAR O REPOSITÓRIO:
+
+* Executar backend local: 
+
+BAIXAR O REPOSITÓRIO: https://github.com/Thais-Mont/game-house-API-mod05-blueedtech-Pub
+
+* Após o download ou clone do projeto, execute no seu terminal
 
 ```
+npm install
+```
+
+* Para executar o Projeto
+
+```
+npm run dev
+```
+
 
 
 ### Aplicação
